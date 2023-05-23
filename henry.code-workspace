@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "."
+        },
+        {
+            "path": "../CRUD_LOOV"
+        },
+        {
+            "path": "../german"
+        },
+        {
+            "path": "../IItrimestre"
+        },
+        {
+            "path": "../proyecto"
+        },
+        {
+            "path": "../ilpratonuevo_loov"
+        }
+    ],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "IItrimestre"
+    }
+}
